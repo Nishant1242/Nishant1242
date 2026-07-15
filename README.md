@@ -6,7 +6,7 @@ I build data pipelines, analytics platforms, and applied AI systems that turn ra
 
 Recently completed my **MS in Data Science at The University of Texas at Arlington** (GPA 3.83). My work focuses on data engineering, LLM applications, cloud platforms, and production-ready analytics.
 
-📍 Arlington, TX &nbsp;•&nbsp; 📧 [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) &nbsp;•&nbsp; [Portfolio](https://YOUR_PORTFOLIO_URL)
+📍 Arlington, TX &nbsp;•&nbsp; 📧 [YOUR_EMAIL@gmail.com](nishant.kadam1211@gmail.com) &nbsp;•&nbsp; [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/nishant1202/)) &nbsp;•&nbsp; [Portfolio](https://YOUR_PORTFOLIO_URL)
 
 ---
 
